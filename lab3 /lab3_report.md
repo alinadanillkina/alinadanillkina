@@ -1,12 +1,12 @@
-<img width="1099" alt="image" src="https://github.com/user-attachments/assets/479d1e6b-79ca-4b47-920b-bbbb20c33f1d" />University: ITMO University
-Faculty: FTMI
-Course: Cloud platforms as the basis of technology entrepreneurship
-Year: 2024/2025
-Group: UVB
-Author: Danilova Alina
-Lab: Lab2
-Date of create: 5.05.2025
-Date of finished: 5.05.2025
+University: ITMO University  
+Faculty: FTMI  
+Course: Cloud platforms as the basis of technology entrepreneurship  
+Year: 2024/2025  
+Group: UVB  
+Author: Danilova Alina  
+Lab: Lab2  
+Date of create: 5.05.2025  
+Date of finished: 5.05.2025  
 
 
   
@@ -25,9 +25,9 @@ Date of finished: 5.05.2025
 <img width="1157" alt="image" src="https://github.com/user-attachments/assets/cd8f6e83-5fbc-46a9-8c87-14eaca5ad31c" />
 
 Ссылки:
-1 - https://storage.googleapis.com/danilova/danfolder%20/1.jpeg
-2 - https://storage.googleapis.com/danilova/danfolder%20/2.png
-3 - https://storage.googleapis.com/danilova/danfolder%20/3.jpeg
+1 - https://storage.googleapis.com/danilova/danfolder%20/1.jpeg  
+2 - https://storage.googleapis.com/danilova/danfolder%20/2.png  
+3 - https://storage.googleapis.com/danilova/danfolder%20/3.jpeg  
 
 
 
