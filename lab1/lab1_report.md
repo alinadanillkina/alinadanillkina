@@ -10,3 +10,4 @@ Date of finished: 26.04.2025
 
 
 Зашли в вкладку IAM, создали service account с ролью Storage Admin
+<img width="1130" alt="Снимок экрана 2025-05-08 в 21 45 51" src="https://github.com/user-attachments/assets/8427c047-4ed5-428b-9db3-e83a65f9e0d4" />
