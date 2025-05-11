@@ -94,7 +94,7 @@ Date of finished: 11.05.2025
 | Vertex AI | $- | $- | $20 |
 | BigQuery | $- | $- | $10 |
 | Cloud Load Balancer | $- | $- | $5 |
-**| ИТОГО | $0 | $12 | $77 |**
+| ИТОГО | $0 | $12 | $77 |**
   
 
 
